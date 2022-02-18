@@ -9,7 +9,7 @@ muitas linhas
 em Python"""
  
 #Tipo de operações matemáticas em python:
-print(2+2) #soma
+print(2+2) #somar
 print(2-2) #subtração
 print(2*2) #multiplicação
 print(2/2) #divisão
